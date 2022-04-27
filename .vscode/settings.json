@@ -2,9 +2,13 @@
     "nuxt.isNuxtApp": false,
     "cSpell.words": [
         "composables",
+        "Loding",
         "Nuxt",
         "nuxtjs",
         "pinia",
         "tailwindcss"
-    ]
+    ],
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false
 }
