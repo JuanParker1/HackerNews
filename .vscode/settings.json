@@ -1,6 +1,10 @@
 {
     "nuxt.isNuxtApp": false,
     "cSpell.words": [
-        "Nuxt"
+        "composables",
+        "Nuxt",
+        "nuxtjs",
+        "pinia",
+        "tailwindcss"
     ]
 }

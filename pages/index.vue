@@ -1,11 +1,13 @@
 <template>
-    <div>
-        <span>{{ title }}</span>
+    <div class="bg-green-500">
+        <span class="text-yellow-100 font-bold underline ">{{ store.name }}</span>
     </div>
 </template>
 
 <script lang='ts' setup>
-const title = ref<string>('new page')
+import { useStore } from '@/composables/store'
+const store = useStore()
+
 </script>
 
 <style scoped>
