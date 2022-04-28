@@ -1,8 +1,9 @@
-node_modules
-*.log
+.DS_Store
+.vite-ssg-dist
+.vite-ssg-temp
+*.local
 dist
-.output
-.nuxt
-.env
-.idea
-.vscode
+dist-ssr
+node_modules
+.idea/
+*.log
